@@ -1,0 +1,4 @@
+name: CompanionsAPI
+version: ${project.version}
+main: me.astero.companionsapi.CompanionsAPI
+api-version: 1.13

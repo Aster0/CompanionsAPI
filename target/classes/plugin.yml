@@ -1,0 +1,4 @@
+name: CompanionsAPI
+version: 1.0-SNAPSHOT
+main: me.astero.companionsapi.CompanionsAPI
+api-version: 1.13
